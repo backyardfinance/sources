@@ -1,0 +1,9 @@
+[submodule "backyard-programs"]
+	path = backyard-programs
+	url = https://github.com/backyardfinance/backyard-programs
+[submodule "frontend-interface"]
+	path = frontend-interface
+	url = https://github.com/backyardfinance/frontend-interface
+[submodule "backyard-server"]
+	path = backyard-server
+	url = https://github.com/backyardfinance/backyard-server
